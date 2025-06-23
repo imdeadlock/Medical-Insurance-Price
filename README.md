@@ -1,2 +1,2 @@
 # Medical-Insurance-Price
-Machine Learning Project : Predicted the price of Medical Insurance based 
+Machine Learning Project : Predicted the price of Medical Insurance based on attributes like Age, BMI & Smoker using Linear Regression Model, Performed Transformation and Exploratory Data Analysis (EDA) Plotted pair-plot and heat-map of correlation of columns for feature selection of explanatory variables and found there is a correlation of 79% between smoker and charges. Achieved an R-Squared value of 80%
